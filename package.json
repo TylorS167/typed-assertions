@@ -2,7 +2,7 @@
   "name": "@typed/assertions",
   "description": "Well-typed functional assertion library",
   "repository": "https://github.com/TylorS167/typed-assertions",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "typings": "lib/index.d.ts",
